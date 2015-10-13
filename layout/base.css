@@ -1,0 +1,25 @@
+
+a {
+  color: inherit;
+}
+
+header, footer {
+  color: #d1d1d1;
+  background-color: #313131;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  line-height: 72px;
+}
+
+footer {
+  font-size: 12px;
+  line-height: 36px;
+}
+
+main aside, main section {
+  padding: 8px;
+  background-color: #d1d1d1;
+}

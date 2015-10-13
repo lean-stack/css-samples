@@ -1,0 +1,19 @@
+{
+  "name": "css-samples",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lean-stack/css-samples",
+  "authors": [
+    "Micha Alt <mail@lean-stack.de>"
+  ],
+  "description": "CSS samples",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "css",
+    "samples"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}
